@@ -1,0 +1,17 @@
+{
+  "name": "@repo/api",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    ".": "./src/eden.ts"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@elysiajs/eden": "^1.0.14"
+  },
+  "devDependencies": {
+    "@repo/typescript-config": "workspace:*",
+    "server": "workspace:*"
+  }
+}

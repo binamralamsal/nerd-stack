@@ -14,7 +14,7 @@ This term is just a fun name that I added. You can name it whatever you want.
 Run the following command:
 
 ```sh
-npx create-turbo@latest -e https://github.com/binamralamsal/nerd-stack
+npm create turbo@latest -e binamralamsal/nerd-stack
 ```
 
 ## What's inside?

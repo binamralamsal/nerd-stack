@@ -6,6 +6,7 @@ This is just a fun stack with combinations of Next.js, Elysia.js, Bun, Tailwind,
 - E: Elysia.js
 - R: React.js
 - D: Drizzle
+  
 This term is just a fun name that I added. You can name it whatever you want.
 
 ## Using this example

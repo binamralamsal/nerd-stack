@@ -40,6 +40,7 @@ module.exports = {
   ignorePatterns: ["node_modules/", "dist/"],
   rules: {
     rules: {
+      "@typescript-eslint/no-unsafe-call": "off",
       "import/no-default-export": "off",
       "import/order": [
         "error",

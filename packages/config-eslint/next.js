@@ -46,6 +46,7 @@ module.exports = {
   ignorePatterns: ["node_modules/", "dist/"],
   // add rules configurations here
   rules: {
+    "@typescript-eslint/no-unsafe-call": "off",
     "import/no-default-export": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "no-console": "off",
